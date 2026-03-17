@@ -41,4 +41,5 @@ Layihə aşağıdakı cədvəllərdən ibarətdir:
 ## ER Diaqram
 
 Layihədə cədvəllər arasındakı əlaqələri göstərmək üçün ER diaqram istifadə olunmuşdur.
+![ER Diaqram](https://github.com/amid8ragimov/IT-Company-Database/blob/main/ER%20Diaqram.png)
 
